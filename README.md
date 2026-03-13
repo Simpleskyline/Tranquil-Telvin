@@ -34,3 +34,6 @@ Database Management - (MYSQL / SQLITE, MONGODB)
 [![simpleskyline's GitHub Stats](https://github-readme-stats.vercel.app/api?username=simpleskyline&show_icons=true&theme=radical)](https://github.com/simpleskyline/github-readme-stats)
 
 ---
+## Certifications
+
+![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-Microsoft%20Learn-blue?logo=github)
