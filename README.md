@@ -1,7 +1,7 @@
-<h1 align="center">Hi, I'm Tranquil Telvin Murimi 👋</h1>
+<h1 align="center">Hi, I'm Tranquil Telvin 👋</h1>
 
 <p align="center">
-  <b>Full-Stack Web Developer · Computer Science Student · Based in Nairobi, Kenya 🇰🇪</b>
+  <b>Full-Stack Web Developer · Computer Science Student Major · Based in Nairobi, Kenya 🇰🇪</b>
 </p>
 
 <p align="center">
@@ -14,7 +14,7 @@
 
 ## About Me
 
-I'm a Computer Science student at the **Catholic University of Eastern Africa**, passionate about building real-world web applications that solve actual problems. I specialize in full-stack development — from clean, responsive frontends to secure, well-architected backends.
+I specialize in full-stack development — from clean, responsive frontends to secure, well-architected backends.
 
 I'm currently seeking an **internship or attachment opportunity** to grow in a professional environment. Fluent in **English** and **Swahili**.
 
@@ -44,7 +44,6 @@ I'm currently seeking an **internship or attachment opportunity** to grow in a p
 ### Database & Data
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 
 ### Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
