@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Tranquil Telvin 👋</h1>
+<h1 align="center">Hi, I'm Tranquil Telvin</h1>
 
 <p align="center">
   <b>Full-Stack Web Developer · Computer Science Student Major · Based in Nairobi, Kenya 🇰🇪</b>
@@ -19,8 +19,8 @@ I specialize in full-stack development — from clean, responsive frontends to s
 I'm currently seeking an **internship or attachment opportunity** to grow in a professional environment. Fluent in **English** and **Swahili**.
 
 - 🔭 Currently building: [ResumeAI](https://resumeai-6fr.pages.dev/) — an AI-powered resume builder
-- 🌱 Always learning and shipping new projects
-- 💬 Open to collaborations, internships, and freelance work
+-    Always learning and shipping new projects
+-  Open to collaborations, internships, and freelance work
 - 📍 Utawala, Nairobi, Kenya  
 
 ---
@@ -58,9 +58,9 @@ I'm currently seeking an **internship or attachment opportunity** to grow in a p
 
 | Project | Description | Stack | Link |
 |---|---|---|---|
-| 🍔 **Skyline Treats** | Full-stack fast food ordering platform with M-Pesa payments, order tracking & admin dashboard | FastAPI, MySQL, JS, PHP, M-Pesa API | [Live](https://skylinetreats.vercel.app/) |
-| 🤖 **ResumeAI** | AI-powered resume builder that helps users craft professional, job-ready CVs | JavaScript, AI, NLP | [Live](https://resumeai-6fr.pages.dev/) |
-| 📊 **Student Management Analytics** | Data analytics system for managing student records and visualising performance metrics | Python, Pandas, MySQL | Coming Soon |
+|  **Skyline Treats** | Full-stack fast food ordering platform with M-Pesa payments, order tracking & admin dashboard | FastAPI, MySQL, JS, PHP, M-Pesa API | [Live](https://skylinetreats.vercel.app/) |
+|  **ResumeAI** | AI-powered resume builder that helps users craft professional, job-ready CVs | JavaScript, AI, NLP | [Live](https://resumeai-6fr.pages.dev/) |
+|  **Student Management Analytics** | Data analytics system for managing student records and visualising performance metrics | Python, Pandas, MySQL | Coming Soon |
 
 ---
 
