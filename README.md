@@ -15,7 +15,7 @@
 
 I specialize in full-stack development — from clean, responsive frontends to secure, well-architected backends.
 
-I'm currently seeking an **internship or attachment opportunity** to grow in a professional environment. Fluent in **English** and **Swahili**.
+Fluent in **English** and **Swahili**.
 
 - 🔭 Currently building: [ResumeAI](https://smart-cv-builder-pro.vercel.app/) — an AI-powered resume builder
 -    Always learning and shipping new projects
