@@ -20,8 +20,8 @@ Full-stack developer based in Utawala, Nairobi. I build across the whole stack: 
 
 Fluent in English and Swahili.
 
-- Currently working on **ResumeAI**, a resume builder with ATS optimisation
-- Open to collaborations, internships, and freelance work
+- Completed a SaaS Tool - **ResumeAI**, a resume builder with ATS optimisation
+- Open to collaborations and freelance work
 
 ---
 
