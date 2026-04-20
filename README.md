@@ -4,9 +4,7 @@
 
 **Full-Stack Web Developer · Nairobi, Kenya**
 
-I build fast, secure, and scalable web applications from clean frontends to well-architected backends.
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-telvinmurimi.dev-7c3aed?style=flat-square&logo=vercel&logoColor=white)](https://simpleskyline.github.io/Tranquil-Telvin)
+[![Portfolio](https://img.shields.io/badge/Portfolio-telvinportfolio.vercel.app-7c3aed?style=flat-square&logo=vercel&logoColor=white)](https://telvinportfolio.vercel.app)
 [![Email](https://img.shields.io/badge/Email-skylinecodes96@gmail.com-7c3aed?style=flat-square&logo=gmail&logoColor=white)](mailto:skylinecodes96@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-telvin--murimi-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/telvin-murimi)
 [![Behance](https://img.shields.io/badge/Behance-telvinmurimi-1769ff?style=flat-square&logo=behance&logoColor=white)](https://www.behance.net/telvinmurimi)
@@ -18,11 +16,11 @@ I build fast, secure, and scalable web applications from clean frontends to well
 
 ## About Me
 
-Full-stack developer based in Utawala, Nairobi. I work across the entire stack: frontend interfaces, backend logic, database design, and deployment.
+Full-stack developer based in Utawala, Nairobi. I build across the whole stack: frontend, backend, databases, and deployment.
 
-Fluent in **English** and **Swahili**.
+Fluent in English and Swahili.
 
-- Currently building **ResumeAI**, an AI-powered resume builder with ATS optimisation
+- Currently working on **ResumeAI**, a resume builder with ATS optimisation
 - Open to collaborations, internships, and freelance work
 
 ---
@@ -68,19 +66,19 @@ Fluent in **English** and **Swahili**.
 
 | Project | Description | Stack | Live |
 |---|---|---|---|
-| **ResumeAI** | AI-powered resume builder with ATS-optimised output and conversion-focused UI | Next.js, AI | [View](https://smart-cv-builder-pro.vercel.app/pages/landing.html) |
-| **Tembo Tours** | Safari company landing page with tour packages and booking flows | Next.js | [View](https://tembotours-one.vercel.app/) |
+| **ResumeAI** | Resume builder with ATS optimisation | Next.js, AI | [View](https://smart-cv-builder-pro.vercel.app/pages/landing.html) |
+| **Tembo Tours** | Safari company landing page with tour packages and bookings | Next.js | [View](https://tembotours-one.vercel.app/) |
 | **Skyline Treats** | Fast food brand site with food grid and order flow | HTML/CSS/JS | [View](https://skylinetreats.vercel.app/) |
-| **Business Card Generator** | Live-preview tool, fill in details and download a high-res PNG | React, Tailwind CSS | [View](https://business-card-generator-three.vercel.app/) |
+| **Business Card Generator** | Fill in your details and download a high-res PNG | React, Tailwind CSS | [View](https://business-card-generator-three.vercel.app/) |
 
 ---
 
 ## Services
 
-- **Landing Pages** — Clean, fast, mobile-first websites
-- **E-Commerce Stores** — Online shops with M-Pesa and card payments
-- **Custom Web Apps** — Bookings, portals, dashboards, and business workflows
-- **Website Care & Support** — Ongoing updates, security monitoring, and improvements
+- Landing Pages
+- E-Commerce with M-Pesa and card payments
+- Custom Web Apps (bookings, portals, dashboards)
+- Ongoing website maintenance and support
 
 ---
 
@@ -93,46 +91,3 @@ Fluent in **English** and **Swahili**.
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Simpleskyline&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d0d0d&title_color=a78bfa&text_color=f4f4f5)
 
 </div>
-
----
-
-<div align="center">
-
-*Building the future of Kenyan business, one line of code at a time.*
-
-</div>
-
-## GitHub Stats
-
-<div align="center">
-
-![Telvin's GitHub stats](https://github-readme-stats.vercel.app/api?username=TranquilTelvin&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d0d0d&title_color=a78bfa&icon_color=7c3aed&text_color=f4f4f5)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TranquilTelvin&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d0d0d&title_color=a78bfa&text_color=f4f4f5)
-
-</div>
-
----
-
-<div align="center">
-
-*Building the future of Kenyan business, one line of code at a time.*
-
-</div>
-
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Simpleskyline&show_icons=true&theme=dark&hide_border=true&bg_color=0e0e0e&title_color=f5c518&icon_color=f5c518&text_color=f0f0ee" alt="Telvin's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Simpleskyline&layout=compact&theme=dark&hide_border=true&bg_color=0e0e0e&title_color=f5c518&text_color=f0f0ee" alt="Top Languages" />
-</p>
-
----
-
-<p align="center">
-  <i>Open to internships, attachments & collaborations — let's build something great.</i><br/>
-  <a href="https://telvinportfolio.vercel.app/">telvinportfolio.vercel.app</a>
-</p>
