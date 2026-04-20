@@ -1,60 +1,107 @@
-<h1 align="center">Hi, I'm Tranquil Telvin</h1>
+<div align="center">
 
-<p align="center">
-  <b>Full-Stack Web Developer · Based in Nairobi, Kenya 🇰🇪</b>
-</p>
+# Telvin Murimi
 
-<p align="center">
-  <a href="https://telvinportfolio.vercel.app/" target="_blank">Portfolio</a> •
-  <a href="mailto:telvintran@gmail.com">Email</a> •
-</p>
+**Full-Stack Web Developer · Nairobi, Kenya**
+
+Building fast, secure, and scalable web applications — from clean frontends to well-architected backends.
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-telvinmurimi.dev-7c3aed?style=flat-square&logo=vercel&logoColor=white)](https://tranquiltelvin.github.io)
+[![Email](https://img.shields.io/badge/Email-skylinecodes96@gmail.com-7c3aed?style=flat-square&logo=gmail&logoColor=white)](mailto:skylinecodes96@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-telvin--murimi-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/telvin-murimi)
+[![Behance](https://img.shields.io/badge/Behance-telvinmurimi-1769ff?style=flat-square&logo=behance&logoColor=white)](https://www.behance.net/telvinmurimi)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B254796560921-22c55e?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/254796560921)
+
+</div>
 
 ---
 
 ## About Me
 
-I specialize in full-stack development — from clean, responsive frontends to secure, well-architected backends.
+I'm a full-stack developer based in Utawala, Nairobi, specialising in building products that are fast, accessible, and built to convert. I work across the entire stack — from pixel-perfect frontends to secure, well-structured backends and database design.
 
 Fluent in **English** and **Swahili**.
 
-- 🔭 Currently building: [ResumeAI](https://smart-cv-builder-pro.vercel.app/) — an AI-powered resume builder
--    Always learning and shipping new projects
--  Open to collaborations, internships, and freelance work
-- 📍 Utawala, Nairobi, Kenya  
+- Currently building **ResumeAI** — an AI-powered resume builder with ATS optimisation
+- Open to **collaborations**, **internships**, and **freelance work**
+- Always shipping something new
 
 ---
 
 ## Tech Stack
 
-### Frontend
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+**Frontend**
 
-### Backend
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61dafb)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0ea5e9?style=flat-square&logo=tailwindcss&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-e34f26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572b6?style=flat-square&logo=css3&logoColor=white)
 
-### Database 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+**Backend**
 
-### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776ab?style=flat-square&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092e20?style=flat-square&logo=django&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-ff6c37?style=flat-square&logo=postman&logoColor=white)
+![M-Pesa](https://img.shields.io/badge/M--Pesa_API-00a651?style=flat-square&logoColor=white)
+
+**Database**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169e1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479a1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47a248?style=flat-square&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=flat-square&logo=firebase&logoColor=black)
+
+**Tools & Platforms**
+
+![Figma](https://img.shields.io/badge/Figma-f24e1e?style=flat-square&logo=figma&logoColor=white)
+![Git](https://img.shields.io/badge/Git-f05032?style=flat-square&logo=git&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ed?style=flat-square&logo=docker&logoColor=white)
 
 ---
 
 ## Featured Projects
 
-| Project | Description | Stack | Link |
+| Project | Description | Stack | Live |
 |---|---|---|---|
-|  **Skyline Treats** | Full-stack fast food ordering platform with M-Pesa payments, order tracking & admin dashboard | FastAPI, MySQL, JS, PHP, M-Pesa API | [Live](https://skylinetreats.vercel.app/) |
-|  **ResumeAI** | AI-powered resume builder that helps users craft professional, job-ready CVs | JavaScript, AI, NLP | [Live](https://smart-cv-builder-pro.vercel.app/) |
-|  **Student Management Analytics** | Data analytics system for managing student records and visualising performance metrics | Python, Pandas, MySQL | Coming Soon |
+| **ResumeAI** | AI-powered resume builder with ATS-optimised output, dark theme, and conversion-focused UI | Next.js, AI, Dark UI | [View](https://smart-cv-builder-pro.vercel.app/pages/landing.html) |
+| **Tembo Tours** | Kenya's premier safari company landing page with tour packages and booking flows | Next.js | [View](https://tembotours-one.vercel.app/) |
+| **Skyline Treats** | Fast food brand landing page with food grid and order conversion flow | HTML/CSS/JS | [View](https://skylinetreats.vercel.app/) |
+| **Business Card Generator** | Live-preview business card tool — fill in details, download a high-res PNG | React, Tailwind CSS | [View](https://business-card-generator-three.vercel.app/) |
 
 ---
+
+## Services
+
+- **Landing Pages** — Clean, fast, mobile-first websites that convert
+- **E-Commerce Stores** — Online shops with M-Pesa and card payments
+- **Custom Web Apps** — Bookings, portals, dashboards, and business workflows
+- **Website Care & Support** — Ongoing updates, security monitoring, and improvements
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+![Telvin's GitHub stats](https://github-readme-stats.vercel.app/api?username=TranquilTelvin&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d0d0d&title_color=a78bfa&icon_color=7c3aed&text_color=f4f4f5)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TranquilTelvin&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d0d0d&title_color=a78bfa&text_color=f4f4f5)
+
+</div>
+
+---
+
+<div align="center">
+
+*Building the future of Kenyan business, one line of code at a time.*
+
+</div>
 
 ## GitHub Stats
 
