@@ -29,9 +29,6 @@ Fluent in English and Swahili.
 
 **Frontend**
 
-![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61dafb)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=black)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0ea5e9?style=flat-square&logo=tailwindcss&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-e34f26?style=flat-square&logo=html5&logoColor=white)
@@ -42,16 +39,11 @@ Fluent in English and Swahili.
 ![Python](https://img.shields.io/badge/Python-3776ab?style=flat-square&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092e20?style=flat-square&logo=django&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST_APIs-ff6c37?style=flat-square&logo=postman&logoColor=white)
 ![M-Pesa](https://img.shields.io/badge/M--Pesa_API-00a651?style=flat-square&logoColor=white)
 
 **Database**
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169e1?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479a1?style=flat-square&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47a248?style=flat-square&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=flat-square&logo=firebase&logoColor=black)
 
 **Tools & Platforms**
 
