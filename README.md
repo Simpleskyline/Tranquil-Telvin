@@ -6,9 +6,6 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-telvinportfolio.vercel.app-7c3aed?style=flat-square&logo=vercel&logoColor=white)](https://telvinportfolio.vercel.app)
 [![Email](https://img.shields.io/badge/Email-skylinecodes96@gmail.com-7c3aed?style=flat-square&logo=gmail&logoColor=white)](mailto:skylinecodes96@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-telvin--murimi-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/telvin-murimi)
-[![Behance](https://img.shields.io/badge/Behance-telvinmurimi-1769ff?style=flat-square&logo=behance&logoColor=white)](https://www.behance.net/telvinmurimi)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B254796560921-22c55e?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/254796560921)
 
 </div>
 
@@ -37,7 +34,6 @@ Fluent in English and Swahili.
 **Backend**
 
 ![Python](https://img.shields.io/badge/Python-3776ab?style=flat-square&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092e20?style=flat-square&logo=django&logoColor=white)
 ![M-Pesa](https://img.shields.io/badge/M--Pesa_API-00a651?style=flat-square&logoColor=white)
 
